@@ -1,0 +1,2 @@
+# JavaScript-CustomScript
+JavaScript codes
